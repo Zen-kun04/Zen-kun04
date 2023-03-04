@@ -1,16 +1,34 @@
-### Hi there 👋
+# wassup?
 
-<!--
-**Zen-kun04/Zen-kun04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Zen-kun04 also known as LeakedSquid and Baguette. I love coding and security.
 
-Here are some ideas to get you started:
+## My current knowledge is:
+- Python (main language)
+- Java
+- JavaScript
+- HTML
+- CSS
+- C#
+- SQL
+- Some cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm currently doing?
+> Now I joined a professional formation to learn a lot of web dev so I hope I will learn tons of things :)
+
+## Projects made
+- Diavlo (https://discord.gg/programadores | https://t.me/diavlodb)
+- Fanszone (https://fanszone.es)
+- TargetPlay (https://t.me/T4rgetPlay)
+
+## My stats
+![Zen-kun04's GitHub stats](https://github-readme-stats.vercel.app/api?username=zen-kun04&show_icons=true&theme=radical)
+
+## Loved languages 😍
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zen-kun04)
+
+## Wish to contact me?
+Discord: Baguette#8980
+
+Telegram: @BadLost17
+
+WhatsApp: You really though I would add this huh? 🤣
