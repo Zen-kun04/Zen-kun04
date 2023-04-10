@@ -6,8 +6,10 @@ I'm Zen-kun04 also known as LeakedSquid and Baguette. I love coding and security
 - Python (main language)
 - Java
 - JavaScript
+- TypeScript
 - HTML
 - CSS
+- SCSS
 - C#
 - SQL
 - Some cybersecurity
