@@ -18,6 +18,7 @@ I'm Zen-kun04 also known as LeakedSquid and Baguette. I love coding and security
 
 ## What I'm currently doing?
 > Now I joined a professional formation to learn a lot of web dev so I hope I will learn tons of things :)
+
 > I'm learning data science and machine learning
 
 ## Projects made
