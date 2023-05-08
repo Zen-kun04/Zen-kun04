@@ -12,12 +12,16 @@ I'm Zen-kun04 also known as LeakedSquid and Baguette. I love coding and security
 - SCSS
 - C#
 - SQL
+- PHP
+- Symfony 6
 - Some cybersecurity
 
 ## What I'm currently doing?
 > Now I joined a professional formation to learn a lot of web dev so I hope I will learn tons of things :)
+> I'm learning data science and machine learning
 
 ## Projects made
+- New project will come soon 😏
 - Diavlo (https://discord.gg/programadores | https://t.me/diavlodb)
 - Fanszone (https://fanszone.es)
 - TargetPlay (https://t.me/T4rgetPlay)
