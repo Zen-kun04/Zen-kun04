@@ -3,7 +3,7 @@
 I'm Zen-kun04 also known as LeakedSquid and Baguette. I love coding and security.
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,figma,ts,php,symfony,java,python,mysql,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,figma,ts,php,symfony,java,python,mysql,nodejs,sqlite,git,flask,idea,linux)](https://skillicons.dev)
 ## What I'm currently doing?
 > Now I joined a professional formation to learn a lot of web dev so I hope I will learn tons of things :)
 
