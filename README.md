@@ -21,6 +21,9 @@ I'm Zen-kun04 also known as LeakedSquid and Baguette. I love coding and security
 ## Loved languages 😍
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zen-kun04)
 
+## Coding activity
+![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=DonBaguette)
+
 ## Wish to contact me?
 Discord: Baguette#8980
 
