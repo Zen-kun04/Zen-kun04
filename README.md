@@ -3,7 +3,7 @@
 I'm Zen-kun04 also known as LeakedSquid and Baguette. I love coding and security.
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,figma,ts,php,symfony,java,python,mysql,nodejs,sqlite,git,flask,idea,linux,cloudflare,regex,maven,discord,linkedin,bots,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,bots,c,cloudflare,cpp,cs,css,discord,figma,flask,git,html,idea,java,js,linkedin,linux,maven,md,mysql,netlify,nextjs,nodejs,php,python,react,regex,scss,sqlite,symfony,tailwind,tauri,ts,twitter,vercel,visualstudio,vscode)](https://skillicons.dev)
 ## What I'm currently doing?
 > Now I joined a professional formation to learn a lot of web dev so I hope I will learn tons of things :)
 
@@ -11,6 +11,7 @@ I'm Zen-kun04 also known as LeakedSquid and Baguette. I love coding and security
 
 ## Projects made
 - New project will come soon 😏
+- Scarlex (We will soon add social medias)
 - Diavlo (https://discord.gg/programadores | https://t.me/diavlodb)
 - Fanszone (https://fanszone.es)
 - TargetPlay (https://t.me/T4rgetPlay)
@@ -25,8 +26,8 @@ I'm Zen-kun04 also known as LeakedSquid and Baguette. I love coding and security
 ![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=DonBaguette)
 
 ## Wish to contact me?
-Discord: Baguette#8980
+Discord: @patrisiomamado
 
-Telegram: @BadLost17
+Telegram: @diavlo
 
 WhatsApp: You really though I would add this huh? 🤣
