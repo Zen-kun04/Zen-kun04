@@ -7,7 +7,8 @@ I'm Zen-kun04 also known as LeakedSquid and Baguette. I love coding and security
 ## What I'm currently doing?
 > Now I joined a professional formation to learn a lot of web dev so I hope I will learn tons of things :)
 
-> I'm learning data science and machine learning
+> I'm learning cyber security in background
+> I plan (probably) to learn AI & ML
 
 ## Projects made
 - New project will come soon 😏
@@ -30,4 +31,4 @@ Discord: @patrisiomamado
 
 Telegram: @diavlo
 
-WhatsApp: You really though I would add this huh? 🤣
+WhatsApp: You really thought I would add this huh? 🤣
