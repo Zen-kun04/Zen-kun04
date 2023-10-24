@@ -27,8 +27,9 @@ I'm Zen-kun04 also known as LeakedSquid and Baguette. I love coding and security
 ![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=DonBaguette)
 
 ## Wish to contact me?
-Discord: @patrisiomamado
+⚠️ I'm not using Discord anymore ⚠️
 
 Telegram: @diavlo
+My own Telegram server: @zenkun04
 
 WhatsApp: You really thought I would add this huh? 🤣
