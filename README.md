@@ -7,7 +7,7 @@ I'm currently searching for an enterprise in France to accept me as an internshi
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zen-kun04&label=Profile%20views&color=0e75b6&style=flat" alt="Zen-kun04" /> </p>
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,bots,cloudflare,css,discord,figma,flask,git,html,idea,java,js,linkedin,linux,maven,md,mysql,netlify,nextjs,nodejs,php,python,react,regex,scss,sqlite,symfony,tailwind,tauri,ts,twitter,vercel,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,bots,cloudflare,css,discord,figma,flask,git,html,idea,java,js,linkedin,linux,maven,md,mysql,netlify,nextjs,nodejs,php,prisma,python,react,redis,regex,scss,sqlite,symfony,tailwind,tauri,ts,twitter,vercel,visualstudio,vscode)](https://skillicons.dev)
 ## What I'm currently doing?
 > Now I joined a professional formation to learn a lot of web dev so I hope I will learn tons of things :)
 
