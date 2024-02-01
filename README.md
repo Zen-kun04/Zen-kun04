@@ -9,7 +9,7 @@ I'm currently searching for an enterprise in France to accept me as an internshi
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,bots,cloudflare,css,discord,figma,flask,git,html,idea,java,js,linkedin,linux,maven,md,mysql,netlify,nextjs,nodejs,php,prisma,python,react,redis,regex,scss,sqlite,symfony,tailwind,tauri,ts,twitter,vercel,visualstudio,vscode)](https://skillicons.dev)
 ## What I'm currently doing?
-> Now I joined a professional formation to learn a lot of web dev so I hope I will learn tons of things :)
+> After obtaining my certificate in web dev, I started a few projects (web and mobile dev) and still learning by myself with teachers like Mosh Hamedani :)
 
 ## My Learning Path (what I wish to learn):
 - [ ] Cybersecurity - 8%
@@ -18,6 +18,8 @@ I'm currently searching for an enterprise in France to accept me as an internshi
 
 ## Projects made
 - New project will come soon 😏
+- MonPetitListing => Currently developing the website
+- Duny Studios => Currently developing the website
 - Scarlex (We will soon add social medias) => Project is paused
 - Diavlo (https://discord.gg/programadores | https://t.me/diavlodb) => I left the project to somebody else
 - Fanszone (https://fanszone.es) => I left the project to somebody else
@@ -36,6 +38,7 @@ I'm currently searching for an enterprise in France to accept me as an internshi
 ⚠️ I'm not using Discord anymore ⚠️
 
 Telegram: @diavlo
+
 My own Telegram server: @zenkun04
 
 WhatsApp: You really thought I would add this huh? 🤣
