@@ -14,9 +14,11 @@ I'm currently searching for an enterprise in France to accept me as an internshi
 > Something else ? Well, I'm coding a few websites (can't tell now which ones), coding some Minecraft plugins, thinking about businesses, and about my life...
 
 ## What I have completed in 2024
-- [ ] Cybersecurity (partially but not really)
-- [ ] Mobile app development (Starting with React Native and probably try Kotlin)
-- [x] Docker
+❌ Cybersecurity => partially but not really
+
+❌ Mobile app development (Starting with React Native and probably try Kotlin) 
+
+✅ Docker
 
 ## What I want to complete for 2025:
 - [ ] Get my Sys Admin diploma (September 2025)
@@ -29,7 +31,7 @@ I'm currently searching for an enterprise in France to accept me as an internshi
 - Duny Studios => Everything has changed. Now thinking what will be its purpose.
 - Scarlex => Project is on hold
 - Diavlo => I left the project to somebody else due to its lack of legality
-- Fanszone => The project didn't worked (lack of knowledge, no organization, no advertisement, etc)
+- Fanszone => The project didn't work (lack of knowledge, no organization, no advertisement, etc)
 - TargetPlay => I left the project to somebody else due to its lack of legality
 
 ## My stats
