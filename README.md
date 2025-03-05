@@ -7,23 +7,30 @@ I'm currently searching for an enterprise in France to accept me as an internshi
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zen-kun04&label=Profile%20views&color=0e75b6&style=flat" alt="Zen-kun04" /> </p>
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,bots,cloudflare,css,discord,figma,flask,git,html,idea,java,js,linkedin,linux,maven,md,mysql,netlify,nextjs,nodejs,php,prisma,python,react,redis,regex,scss,sqlite,symfony,tailwind,tauri,ts,twitter,vercel,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,bots,cloudflare,css,figma,flask,git,html,idea,java,js,linux,maven,mysql,netlify,nextjs,nodejs,prisma,python,react,redis,regex,scss,sqlite,tailwind,tauri,ts,vercel,visualstudio,vscode)](https://skillicons.dev)
 ## What I'm currently doing?
-> After obtaining my certificate in web dev, I started a few projects (web and mobile dev) and still learning by myself with teachers like Mosh Hamedani :)
+> Right now I'm finishing my studies in Systems, Networks and Databases administration for September 2025. I will then continue my studies to the Master in Cybersecurity.
 
-## What I want to complete for 2024:
-- [ ] Cybersecurity
+> Something else ? Well, I'm coding a few websites (can't tell now which ones), coding some Minecraft plugins, thinking about businesses, and about my life...
+
+## What I have completed in 2024
+- [ ] Cybersecurity (partially but not really)
 - [ ] Mobile app development (Starting with React Native and probably try Kotlin)
-- [ ] Docker
+- [x] Docker
+
+## What I want to complete for 2025:
+- [ ] Get my Sys Admin diploma (September 2025)
+- [ ] Be accepted for my Master in Cybersecurity
+- [ ] Launch at least one project with +50 customers
 
 ## Projects made
 - New project will come soon 😏
-- MonPetitListing => Currently developing the website
-- Duny Studios => Currently developing the website
-- Scarlex (We will soon add social medias) => Project is paused
-- Diavlo (https://discord.gg/programadores | https://t.me/diavlodb) => I left the project to somebody else
-- Fanszone (https://fanszone.es) => I left the project to somebody else
-- TargetPlay (https://t.me/T4rgetPlay) => I left the project to somebody else
+- [AntiVPN](https://builtbybit.com/resources/antivpn-fast-reliable-protection.60443/) => A simple AntiVPN for Minecraft servers and proxies
+- Duny Studios => Everything has changed. Now thinking what will be its purpose.
+- Scarlex => Project is on hold
+- Diavlo => I left the project to somebody else due to its lack of legality
+- Fanszone => The project didn't worked (lack of knowledge, no organization, no advertisement, etc)
+- TargetPlay => I left the project to somebody else due to its lack of legality
 
 ## My stats
 ![Zen-kun04's GitHub stats](https://github-readme-stats.vercel.app/api?username=zen-kun04&show_icons=true&theme=radical)
@@ -35,7 +42,7 @@ I'm currently searching for an enterprise in France to accept me as an internshi
 ![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=DonBaguette)
 
 ## Wish to contact me?
-⚠️ I'm not using Discord anymore ⚠️
+Discord: @iam.bean
 
 Telegram: @diavlo
 
