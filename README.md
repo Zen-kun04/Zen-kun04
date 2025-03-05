@@ -2,7 +2,7 @@
 
 I'm Zen-kun04 also known as LeakedSquid and Baguette. I love coding and security.
 
-I'm currently searching for an enterprise in France to accept me as an internship for 18 months :)
+I'm currently studying Systems, Networks & Databases administration and coding a lot of things in the background :)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zen-kun04&label=Profile%20views&color=0e75b6&style=flat" alt="Zen-kun04" /> </p>
 
