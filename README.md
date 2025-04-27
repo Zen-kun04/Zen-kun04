@@ -22,7 +22,7 @@ I'm currently studying Systems, Networks & Databases administration and coding a
 
 ## What I want to complete for 2025:
 - [ ] Get my Sys Admin diploma (September 2025)
-- [ ] Be accepted for my Master in Cybersecurity
+- [x] Be accepted for my Master in Cybersecurity
 - [ ] Launch at least one project with +50 customers
 
 ## Projects made
